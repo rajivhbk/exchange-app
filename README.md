@@ -1,39 +1,12 @@
 # exchange-app
 
-## Project setup
+## Run Project
 ```
-yarn install
-```
+yarn run docker-deploy
 
-### Compiles and hot-reloads for development
 ```
-yarn run serve
+###
 ```
+go to http://127.0.0.1:8080
 
-### Compiles and minifies for production
 ```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your end-to-end tests
-```
-yarn run test:e2e
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
